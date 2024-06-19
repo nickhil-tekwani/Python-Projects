@@ -11,3 +11,4 @@ Projects
   - Iris Dataset Classification (ML)
   - Simple Webscraping (Other)
 - /DataMining
+- /MachineLearning
